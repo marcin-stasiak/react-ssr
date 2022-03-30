@@ -1,0 +1,22 @@
+{
+  "name": "react-ssr",
+  "version": "0.0.1",
+  "description": "React server side rendering with Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "ssr",
+    "puppeteer",
+    "node"
+  ],
+  "author": "Marcin Stasiak",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "puppeteer": "^13.5.1",
+    "react": "^18.0.0"
+  }
+}
